@@ -5,6 +5,7 @@ title: 4/3
 ---
 ## 4/3
 
+看到一篇作业里的文章写道，
 ![image_1]({{site.baseurl}}/https://i.loli.net/2020/05/10/B5mEPS7qO3xoakI.png)
 ![image_2]({{site.baseurl}}/https://i.loli.net/2020/05/10/qLhgdVsizcUep4C.png)
 能带给我一点安慰。
