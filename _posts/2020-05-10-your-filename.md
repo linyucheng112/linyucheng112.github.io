@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 4/3
 ---
 ## 4/3
